@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="center">
-  🌐 Desarrollador Web Full-Stack & Diseñador Gráfico desde Madrid, España 🌐
+  🌐 Desarrollador Web Full-Stack & Diseñador Gráfico 🌐
 </h3>
 
 
