@@ -39,7 +39,7 @@
 - 💬 Pregúntame lo que quieras; si estoy disponible, responderé en segundos 😉
 - 🎨 Diseño con **Photoshop**, **After Effects**, **Cinema 4D** y **Canva**
 - 📫 Escríbeme a **pabloapariciocreativexiii@gmail.com**
-- 📄 Echa un vistazo a mi currículum: [Descargar PDF](https://pabloapariciocreativexiii.com/SevillanoPabloCV2025_SpanishVersion.pdf)
+- 📄 Echa un vistazo a mi currículum: [Descargar PDF]([https://pabloapariciocreativexiii.com/SevillanoPabloCV2025_SpanishVersion.pdf](https://pabloapariciocreativexiii.com/download-cv))
 - 😎 Dato curioso: siempre aprendo algo nuevo… ¡y luego duermo para fijarlo en la memoria!
 
 ```python
