@@ -34,7 +34,7 @@
 
 - 🔭 Desarrollo actualmente la plataforma de streaming de videojuegos [TopRetro](https://topretro.es/)
 - 🌱 Me estoy formando en **Inteligencia Artificial** y profundizando en Animaciones y Transiciones con CSS, HTML5/CSS3, JavaScript y SQL
-- ✍️ En mis ratos libres diseño gráficos y comparto artículos en mi [blog](https://pabloapariciocreativexiii.com/)
+- ✍️ En mis ratos libres diseño gráficos y comparto artículos en mi [blog]([https://pabloapariciocreativexiii.com/](https://pabloapariciocreativexiii.com/blog))
 - 🤝 Ofrezco consultorías pro bono, colaboraciones y charlas técnicas
 - 💬 Pregúntame lo que quieras; si estoy disponible, responderé en segundos 😉
 - 🎨 Diseño con **Photoshop**, **After Effects**, **Cinema 4D** y **Canva**
