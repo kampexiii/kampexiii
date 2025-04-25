@@ -1,6 +1,6 @@
 <!-- ========== BANNER ========== -->
 <p align="center">
-  <img src="https://ibb.co/kg0nNrF3" />    <img src="https://ibb.co/kg0nNrF3"><img src="https://i.ibb.co/fYtRjK78/banner-Git-Hub-Kampe-XIII.png" alt="Banner de Pablo Sevillano Aparicio">
+  <img src="https://ibb.co/kg0nNrF3"><img src="https://i.ibb.co/fYtRjK78/banner-Git-Hub-Kampe-XIII.png" alt="Banner de Pablo Sevillano Aparicio">
 </p>
 
 <!-- ========== ENCABEZADO / INTRODUCCIÓN ========== -->
