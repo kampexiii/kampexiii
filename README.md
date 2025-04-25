@@ -1,6 +1,6 @@
 <!-- ========== BANNER ========== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kampexiii/kampexiii/main/ASK%20Banner%20Image%20Github.png" alt="Banner de Pablo Sevillano Aparicio" />
+  <img src="https://ibb.co/kg0nNrF3" alt="Banner de Pablo Sevillano Aparicio" />
 </p>
 
 <!-- ========== ENCABEZADO / INTRODUCCIÓN ========== -->
